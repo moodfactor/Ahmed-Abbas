@@ -1,77 +1,73 @@
-<!-- Hi there, I'm moodfactor 👋 -->
+Hi, I'm Ahmed 👋
 
-<h1 align="center">Hi, I'm Ahmed 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Passionate+about+code+and+innovation." alt="Typing SVG" />
-</p>
 
----
+🌟 About Me
+Hey there! I’m a mobile dev who’s all about creating seamless experiences for both Android and iOS. I got hooked on coding when I built my first app, and now I’m always chasing the next challenge—whether it’s crafting pixel-perfect UIs or optimizing performance. I thrive on learning, building, and collaborating with cool people.
 
-### 🧑‍💻 About Me
+🔭 Currently working on: Cohouse App - A cross-platform app connecting folks with shared living spaces.
+🌱 Learning: Laravel - Leveling up my backend skills to build full-stack solutions.
+👯 Open to collaborate on: Open source mobile projects—think Flutter, Android, iOS, or anything innovative.
+💬 Ask me about: Flutter, Dart, Android, Kotlin, Java, iOS - I’ve got hands-on experience building apps for both platforms.
+📫 How to reach me: moodfactor102@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I’m a coding challenge junkie—give me a puzzle, and I’m in!
 
-- 🔭 I’m currently working on: **Cohouse App**
-- 🌱 I’m learning: **Laravel**
-- 👯 I’m open to collaborate on: **Interesting open source projects**
-- 💬 Ask me about: **Flutter, Dart, Android, Kotlin, Java**
-- 📫 How to reach me: **moodfactor102@gmail.com**
-- 😄 Pronouns: **He**
-- ⚡ Fun fact: **Likes coding challenges**
 
----
+🛠️ Tech Stack
+Mobile Development:
 
-### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,python,go,nodejs,java,html,css,tailwind,scss,git,github,docker,linux,aws,vscode,flutter" />
-  <br>
-  <!-- Android, Kotlin, Jetpack Compose, Flutter -->
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
 
----
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moodfactor&show_icons=true&theme=github_dark&hide=contribs,prs" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moodfactor&theme=github-dark-blue" height="150"/>
-</p>
+Web Development:
 
----
+Backend & Tools:
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moodfactor&theme=algolia&no-bg=true&no-frame=true" />
-</p>
+📈 GitHub Stats
 
----
 
-### 🚀 Featured Projects
 
-- [Project 1](https://github.com/moodfactor/weatherapp): Short description.
-- [Project 2](https://github.com/moodfactor/cohouse_match): Short description.
-- [Project 3](https://github.com/moodfactor/quiz_creator_tool): Short description.
+🏆 GitHub Trophies
 
----
 
-### 🌐 Connect with Me
+🚀 Featured Projects
 
-<p align="center">
-  <a href="mailto:moodfactor102@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+Math Path: An interactive math learning app for all ages.
+Elradio: Your favorite radio stations, beautifully designed.
+Weatherapp: Real-time weather updates at your fingertips.
+Cohouse: Find your perfect shared living space.
+MiyaMiya: Connect with friends in a whole new way.
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moodfactor&color=blue" />
-</p>
+📱 My Apps
 
-<!--
-**moodfactor/moodfactor** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Math Path:
+
+
+Elradio:
+
+
+Weatherapp:
+
+
+Cohouse:
+
+
+MiyaMiya:
+
+
+
+
+🎓 Certifications
+
+
+
+
+
+🌐 Connect with Me
+
+
+
+✨ Let’s make something dope together! Hit me up to collaborate or check out my repos for some inspiration.
